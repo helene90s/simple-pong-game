@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.title-wrapper {
+  display: flex;
+  justify-content: space-around;
+  align-items: center
+}
+
+.title, .player1, .player2 {
+  text-align: center;
+  font-size: 1.3rem;
+  padding: 10px
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
